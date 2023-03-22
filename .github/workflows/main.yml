@@ -18,6 +18,7 @@ on:
   
 
 jobs:
+  permissions: read-all|write-all
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
