@@ -3,25 +3,31 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UniverTime&langs_count=10&bg_color=DEG,000000,800000&text_color=FFFFFF&border_radius=14&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="
-      https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake-dark.svg
-    "
+    srcset=
+	    "
+	      https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake-dark.svg
+	    "
   />
+  
   <source
     media="(prefers-color-scheme: light)"
-    srcset="
-      https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake.svg
-    "
+    srcset=
+	    "
+	      https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake.svg
+	    "
   />
+ 
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/UniverTime/MySelf/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+
