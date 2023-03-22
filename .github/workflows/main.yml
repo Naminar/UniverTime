@@ -13,10 +13,9 @@ on:
     branches:
     - master
     
-  
+permissions: read-all|write-all
 
 jobs:
-  permissions: read-all|write-all
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
