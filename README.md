@@ -4,26 +4,11 @@
 <!-- TEXT: CONTRIBURION SNAKE GRID-->
 <picture>
 
-<source
-    media="(prefers-color-scheme: dark)"
-    srcset=
-	    "
-	      SnakeGridW3.png
-	    "
-  />
+<source media="(prefers-color-scheme: dark)" srcset="SnakeGridW3.png" />
   
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset=
-	    "
-	      SnakeGrid3.png
-	    "
-  />
+<source media="(prefers-color-scheme: light)" srcset="SnakeGrid3.png" />
  
- <img
-    alt="github contribution grid snake animation"
-    src="SnakeGrid3.png"
-  />  
+<img alt="github contribution grid snake animation" src="SnakeGrid3.png" />  
   
 </picture>
 
