@@ -1,7 +1,7 @@
 
 <!-- TEXT: CONTRIBURION SNAKE GRID-->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="SnakeGridWB.png" />
+ <source media="(prefers-color-scheme: dark)" srcset="SnakeGridWG.png" />
   
  <source media="(prefers-color-scheme: light)" srcset="SnakeGrid3.png" />
 
