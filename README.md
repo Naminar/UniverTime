@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:00bf00&fontColor=FFFFFF&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:004bc4&fontColor=FFFFFF&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 <!-- TEXT: CONTRIBURION SNAKE GRID-->
 <picture>
@@ -36,4 +36,6 @@
 
 </a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=800000&center=true&vCenter=true&multiline=true&width=500&lines=I+am+formatting+your+disk!+See+you+soon!#gh-light-mode-only)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=79FF97&center=true&vCenter=true&multiline=true&width=500&lines=I+am+formatting+your+disk!+See+you+soon!#gh-dark-mode-only)](https://git.io/typing-svg)
