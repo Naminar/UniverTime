@@ -3,19 +3,19 @@
 
 <!-- TEXT: CONTRIBURION SNAKE GRID-->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="SnakeGridW3.png" />
+ <source align="center" media="(prefers-color-scheme: dark)" srcset="SnakeGridW3.png" />
   
- <source media="(prefers-color-scheme: light)" srcset="SnakeGrid3.png" />
+ <source align="center" media="(prefers-color-scheme: light)" srcset="SnakeGrid3.png" />
 
- <img alt="github contribution grid snake animation"  src="SnakeGrid3.png" /> 
+ <img align="center" alt="github contribution grid snake animation"  src="SnakeGrid3.png" /> 
 </picture>
 
 
 <!-- DYNAMIC: CONTRIBURION SNAKE GRID-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake-dark.svg" />
   
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake.svg" />
+  <source align="center" media="(prefers-color-scheme: light)" srcset="https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake.svg" />
  
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UniverTime/MySelf/output/github-contribution-grid-snake.svg" />
 </picture> 
