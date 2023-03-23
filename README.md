@@ -1,4 +1,3 @@
-# MySelf
 
 <!-- TEXT: CONTRIBURION SNAKE GRID-->
 <picture>
