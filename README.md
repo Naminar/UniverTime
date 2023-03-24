@@ -7,7 +7,7 @@
   
  <source media="(prefers-color-scheme: light)" srcset="SnakeGrid3.png" />
 
- <img src="SnakeGrid3.png" alt="github contribution grid snake animation" /> 
+ <img src="SnakeGrid3.png" /> 
 </picture>
 
 
