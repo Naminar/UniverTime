@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:004bc4&fontColor=FFFFFF&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
-<!-- TEXT: CONTRIBURION SNAKE GRID-->
+<!-- TEXT: CONTRIBURION SNAKE GRID 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="SnakeGridWG.png" />
   
@@ -9,7 +9,10 @@
 
  <img alt="github contribution grid snake animation" src="SnakeGrid3.png" /> 
 </picture>
+-->
 
+[![LIGHT THEME TEXT: CONTRIBURION SNAKE GRID](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGrid3.png#gh-light-mode-only)](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGrid3.png#gh-light-mode-only)
+[![DARK THEME TEXT: CONTRIBURION SNAKE GRID](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGridWG.png#gh-dark-mode-only)](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGridWG.png#gh-dark-mode-only)
 
 <!-- DYNAMIC: CONTRIBURION SNAKE GRID-->
 <picture>
