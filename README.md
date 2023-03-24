@@ -14,7 +14,7 @@
 [![LIGHT THEME TEXT: CONTRIBURION SNAKE GRID](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGrid3.png#gh-light-mode-only)](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGrid3.png#gh-light-mode-only)
 [![DARK THEME TEXT: CONTRIBURION SNAKE GRID](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGridWG.png#gh-dark-mode-only)](https://raw.githubusercontent.com/UniverTime/UniverTime/master/SnakeGridWG.png#gh-dark-mode-only)
 
-<!-- DYNAMIC: CONTRIBURION SNAKE GRID-->
+<!-- DYNAMIC: CONTRIBURION SNAKE GRID 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UniverTime/MySelf/blob/output/github-contribution-grid-snake-dark.svg" />
   
@@ -22,6 +22,10 @@
  
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UniverTime/MySelf/output/github-contribution-grid-snake.svg" />
 </picture> 
+-->
+
+[![LIGHT THEME DYNAMIC: CONTRIBURION SNAKE GRID](https://raw.githubusercontent.com/UniverTime/UniverTime/d2ea193c36e7bb299f08f1d31e81c928338b9da5/github-contribution-grid-snake.svg#gh-light-mode-only)](https://raw.githubusercontent.com/UniverTime/UniverTime/d2ea193c36e7bb299f08f1d31e81c928338b9da5/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![DARK THEME DYNAMIC: CONTRIBURION SNAKE GRID](https://raw.githubusercontent.com/UniverTime/UniverTime/d2ea193c36e7bb299f08f1d31e81c928338b9da5/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://raw.githubusercontent.com/UniverTime/UniverTime/d2ea193c36e7bb299f08f1d31e81c928338b9da5/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=UniverTime&show_icons=true&bg_color=DEG,000000,800000&text_color=FFFFFF&border_radius=14&ring_color=79ff97&title_color=FFFFFF&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
 
