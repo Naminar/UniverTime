@@ -56,5 +56,6 @@
 \
 \
 \
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&color=279FF7&center=true&width=150&lines=My+CV+here.)]()\
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=800000&center=true&vCenter=true&multiline=true&width=500&lines=I+am+formatting+your+disk!+See+you+soon!#gh-light-mode-only)](https://git.io/typing-svg#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=79FF97&center=true&vCenter=true&multiline=true&width=500&lines=I+am+formatting+your+disk!+See+you+soon!#gh-dark-mode-only)](https://git.io/typing-svg#gh-dark-mode-only)
